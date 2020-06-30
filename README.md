@@ -1,5 +1,5 @@
 # Guessing Game
-Tue, Jun 30, 2020 10:56:45 PM
+Tue, Jun 30, 2020 11:12:30 PM
 
 
-Number of lines of code contained in guessinggame.sh : 23
+Number of lines of code contained in guessinggame.sh : 26
